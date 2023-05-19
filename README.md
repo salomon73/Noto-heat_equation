@@ -8,4 +8,4 @@ This code was created by Salomon Guinchard for an EPFL JupyterNotebook and is op
 
 Contact: salomon.guinchard at epfl.ch 
 
-![alt text](https://github.com/[salomon73]/[Noto-heat_equation]/blob/[master]/heat_diff.jpg?raw=true)
+![alt text](https://github.com/salomon73/Noto-heat_equation/blob/master/heat_diff.jpg?raw=true)

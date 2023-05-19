@@ -7,3 +7,5 @@ Another file is provided giving a simulation for Turing patterns arising from th
 This code was created by Salomon Guinchard for an EPFL JupyterNotebook and is open-source under MIT licence.
 
 Contact: salomon.guinchard at epfl.ch 
+
+![alt text](https://github.com/[salomon73]/[Noto-heat_equation]/blob/[master]/heat_diff.jpg?raw=true)

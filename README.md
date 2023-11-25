@@ -6,6 +6,6 @@ Two situations are studied, thermalisation of two metallic blocs and the diffusi
 Another file is provided giving a simulation for Turing patterns arising from the interaction of two substances on a two dimensions grid. 
 This code was created by Salomon Guinchard for an EPFL JupyterNotebook and is open-source under MIT licence.
 
-Contact: salomon.guinchard at epfl.ch 
+Contact: salomon.guinchard99 at gmail.com 
 
 ![alt text](https://github.com/salomon73/Noto-heat_equation/blob/master/heat_diff.jpg?raw=true)
